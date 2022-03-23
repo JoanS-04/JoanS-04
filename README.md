@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Joan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning microcomputer systems and networks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 JoanS-04/JoanS-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
